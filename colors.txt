@@ -4,4 +4,4 @@ green
 orange
 yellow
 black
-white
+magenta
