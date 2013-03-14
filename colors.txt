@@ -5,4 +5,3 @@ orange
 yellow
 black
 magenta
-purple
