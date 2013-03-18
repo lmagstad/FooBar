@@ -1,7 +1,8 @@
 red
 blue
 green
-orange
-yellow
 black
 magenta
+gray
+white
+tangerine
