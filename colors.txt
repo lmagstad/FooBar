@@ -4,3 +4,4 @@ green
 black
 magenta
 gray
+white
