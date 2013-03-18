@@ -1,6 +1,6 @@
 red
-blue
 green
+blue
 black
 magenta
 gray
