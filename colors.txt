@@ -5,3 +5,4 @@ black
 magenta
 gray
 white
+tangerine
