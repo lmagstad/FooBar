@@ -6,3 +6,4 @@ magenta
 gray
 white
 tangerine
+yellow
