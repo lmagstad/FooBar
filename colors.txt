@@ -7,4 +7,4 @@ gray
 white
 orange
 yellow
-blue
+clear
