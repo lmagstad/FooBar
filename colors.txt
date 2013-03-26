@@ -1,10 +1,13 @@
 red
 green
 black
+pink
 purple
 magenta
 gray
+skyblue
 white
 orange
 yellow
 clear
+blue
