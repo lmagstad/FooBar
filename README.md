@@ -1,2 +1,3 @@
 FooBar
 ======
+A readme file
