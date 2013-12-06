@@ -11,3 +11,4 @@ orange
 yellow
 clear
 blue
+mauve
