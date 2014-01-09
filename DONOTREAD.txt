@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Hello if you're reading this then you didn't follow the directions of the fiile name. 
-
-That's not very good of you. 
-=======
-THIS IS THE FIX FIXING FIXING FIXING. Version1.0
->>>>>>> release-1.0
+Hello if you're reading this then you didn't follow directions
+jdslkjfsdlkjfds 
